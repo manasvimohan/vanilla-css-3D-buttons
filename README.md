@@ -2,6 +2,9 @@
 
 A simple 3d box stacked navigation written in pure css.
 
+# Screenshot
+![Image](final-product.png)
+
 # Technology Used
 
 1. Vite - To create a server. I find it the lightest and fastest solution for vanilla projects, simpler than webpack.
